@@ -1,42 +1,48 @@
 # 🏭 Integrated Pellet Plant Performance & Quality Dashboard
 
-A professional **Power BI Dashboard** developed during my internship at **AM/NS India** to monitor pellet plant production, quality, and operational KPIs.
+A professional **Power BI Dashboard** developed during my internship at **ArcelorMittal Nippon Steel (AM/NS) India** to monitor pellet plant production, quality, and operational KPIs.
 
 ---
 
 ## 📌 Project Overview
 
-This dashboard provides a centralized view of production and quality metrics, helping engineers and management monitor plant performance in real time.
+This project demonstrates how Power BI can transform production and quality data into interactive dashboards for effective decision-making.
 
-The project integrates production data, quality parameters, and KPI analysis into a single interactive Power BI dashboard.
+The dashboard provides insights into:
+- Production Performance
+- Quality Monitoring
+- KPI Tracking
+- Target vs Actual Analysis
+- Plant-wise Comparison
+- Trend Analysis
 
 ---
 
 ## 🚀 Features
 
-- 📊 Production Performance Dashboard
+- 📊 Interactive Power BI Dashboard
 - 🎯 Target vs Actual Production Analysis
 - 📈 Monthly & Daily Production Trends
-- 🧪 Pellet Quality Monitoring
-- ⚙️ PP1 & PP2 Plant Performance Comparison
+- 🏭 PP1 & PP2 Plant Performance Comparison
 - 📍 Plant Location Visualization
 - 📉 KPI Cards
-- 🔍 Interactive Filters & Drill-down Analysis
+- 🧪 Pellet Quality Monitoring
+- 🔍 Dynamic Filters & Slicers
 
 ---
 
-## 🛠️ Tools & Technologies
+## 🛠️ Tech Stack
 
 - Power BI
 - Microsoft Excel
 - DAX
 - Power Query
-- Python (Data Automation)
-- Git & GitHub
+- Python
+
 
 ---
 
-## 📊 KPIs Included
+## 📊 Key KPIs
 
 - Total Production
 - Daily Production
@@ -52,7 +58,7 @@ The project integrates production data, quality parameters, and KPI analysis int
 
 ---
 
-## 📂 Project Structure
+## 📂 Repository Structure
 
 ```
 pellet-plant-dashboard/
@@ -60,25 +66,15 @@ pellet-plant-dashboard/
 ├── README.md
 ├── Pellet_Plant_Dashboard.pbix
 ├── Dashboard.png
-├── Data/
-│   └── Sample_Data.xlsx
-├── Images/
-│   └── Dashboard_Screenshot.png
-└── Documentation/
-    └── Project_Report.pdf
+├── Sample_Data.xlsx
+└── Project_Report.pdf
 ```
 
 ---
 
 ## 📸 Dashboard Preview
 
-> Upload a screenshot of your dashboard and rename it as:
-
-```
-Dashboard.png
-```
-
-Then add:
+> Add a screenshot named **Dashboard.png** to display your dashboard here.
 
 ```markdown
 ![Dashboard](Dashboard.png)
@@ -86,38 +82,38 @@ Then add:
 
 ---
 
-## 📈 Business Benefits
+## 🎯 Business Benefits
 
-- Improved production monitoring
-- Better quality tracking
-- Faster decision making
+- Real-time production monitoring
 - Interactive KPI visualization
-- Reduced manual reporting effort
-
----
-
-## 🎓 Internship Project
-
-This project was developed as part of my internship at **AM/NS India**.
-
-**Note:** The data used in this repository is sample/anonymized for learning purposes. No confidential company information is included.
+- Better quality analysis
+- Faster decision-making
+- Reduced manual reporting
 
 ---
 
 ## 👨‍💻 Author
 
-**Anand Kumar Ojha**
+**Ananda Kumar Ojha**
 
-B.Tech (Computer Science & Data Science)
+🎓 B.Tech – Computer Science & Data Science
 
-📧 Email: your-email@example.com
+🏫 Trident Academy of Technology, Bhubaneswar
 
-🔗 LinkedIn: https://linkedin.com/in/your-profile
+🏭 Intern at ArcelorMittal Nippon Steel India
 
-🌐 GitHub: https://github.com/anandakumarojha
+📧 **Email:** anandakumarojha2005@gmail.com
+
+🔗 **LinkedIn:** https://www.linkedin.com/in/ananda-kumar-ojha-005069335/
+
+🐙 **GitHub:** https://github.com/anandakumarojha
 
 ---
 
-## ⭐ If you like this project
+## ⭐ Support
 
-Give this repository a ⭐ on GitHub.
+If you found this project useful, please consider giving it a ⭐ on GitHub.
+
+---
+
+> **Note:** This repository contains sample/anonymized data for educational purposes. No confidential company information has been included.
